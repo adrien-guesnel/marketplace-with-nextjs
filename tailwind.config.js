@@ -6,6 +6,7 @@ module.exports = {
       colors: {
         purpleFooterLeft: "#1E143C",
         purpleFooterRight: "#1A1138",
+        itemCard: "rgba(167, 139, 250, 0.18)",
       },
     },
   },
