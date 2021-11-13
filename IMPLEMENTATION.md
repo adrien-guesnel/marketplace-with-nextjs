@@ -1,10 +1,10 @@
-# Realization
+# Implementation
 
-## Technologies choosen
+## Technologies chosen
 
-I choose Next.JS framework to build this prototype, it's a famouse framework using typescript and react to build single web page application.
+I choose Next.JS framework to build this prototype, it's a famous framework using Typescript and React to build single web page application.
 
-And for design part i choose :
+And for design part i chose :
 
 - TailwindCSS to build the design of our own components with classes predefined.
 - Fontawesome icons to have plenty icons available.
@@ -27,3 +27,5 @@ For the POC, i choose to reproduce an interface with only two functionnalities:
 - Price fields: to filter the items by min price and max price
 
 Precision : items are mocking with fix values inside an api route accessible by http://localhost:3000/api/items
+
+For the components separation, i only separate the item card and pagination but it will be better to separate filters too.
