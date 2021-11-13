@@ -48,4 +48,4 @@ So with this architecture, we can have two thinking about organization :
 
 - **Project team** : two teams of 2 people, one front, one end. The front will be in charge of ui library and the markeplace and the back of the api. This organization tends to specialize people in their part, the problems are to see others project like a black box (we don't know how they works) but is it really mandatory to know all projects ? And maybe sometimes a team need to wait other team to develop something.
 
-I think 3 or 4 people can be a good start. And if i need to choose an organization i think feature team is better when we beginning to have the best effort and maybe after a project team organization to increase the specialization and the quality of each projects.
+I think 3 or 4 people can be a good start. And if i need to chose an organization, i think feature team is better when we beginning to have the best effort and maybe after a project team organization to increase the specialization and the quality of each projects.
