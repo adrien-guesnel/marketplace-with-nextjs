@@ -18,3 +18,12 @@ We can define 3 big parts for each page of this project :
 - Footer with the logo and some credentials
 
 So i create a Layout component to regroup this three parts and only have to put body part inside it to have the design for each page.
+
+## Marketplace
+
+For the POC, i choose to reproduce an interface with only two functionnalities:
+
+- Search field: to filter the items by the searching value
+- Price fields: to filter the items by min price and max price
+
+Precision : items are mocking with fix values inside an api route accessible by http://localhost:3000/api/items
